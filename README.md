@@ -50,7 +50,7 @@
         <div class="content">
             <div class="loading" id="loadingMessage">Loading Google Earth Project...</div>
             <iframe 
-                src="https://earth.google.com/earth/d/1-Q_WzrCx0g6eLsHf52t34xdh_-ZZZTW-?usp=sharing&embed=true&presentation=true" 
+                src="https://earth.google.com/earth/d/1-Q_WzrCx0g6eLsHf52t34xdh_-ZZZTW-?usp=sharing" 
                 allowfullscreen
                 onload="document.getElementById('loadingMessage').style.display='none';"
             ></iframe>
